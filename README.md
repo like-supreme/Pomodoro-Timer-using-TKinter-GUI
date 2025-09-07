@@ -1,7 +1,7 @@
 # Pomodoro-Timer-using-TKinter-GUI
 Pomodoro Timer (Tkinter)  A **Pomodoro productivity timer** built with Python’s Tkinter GUI library.   The app follows the classic Pomodoro technique:
 - 25 minutes work
-- 5 minutes short break (repeated 3 times)
+- 5 minutes short break (repeated 4 times)
 - 20 minutes long break after the 4th work session
 
 ✔ Marks are shown after each completed work session.
